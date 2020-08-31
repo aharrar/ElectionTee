@@ -1,0 +1,16 @@
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\bin\Amulet\WysHost.exe
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\bin\Amulet\WysHost.pdb
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.csprojResolveAssemblyReference.cache
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.Form1.resources
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.Properties.Resources.resources
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.csproj.GenerateResource.Cache
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.exe
+C:\DALsdk\Samples\WysSample\WysHost\WysHost\obj\x86\Amulet\WysHost.pdb
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\bin\Amulet\WysHost.exe
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\bin\Amulet\WysHost.pdb
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.Form1.resources
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.Properties.Resources.resources
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.csproj.GenerateResource.Cache
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.exe
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.pdb
+C:\Users\Noam Bialik\Desktop\WysSample1\WysHost\WysHost\obj\x86\Amulet\WysHost.csprojResolveAssemblyReference.cache
